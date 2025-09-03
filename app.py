@@ -116,7 +116,7 @@ In some cases, time sensitive matters may receive a higher priority of service.
 As a result, certain legal service requests may take more than five (5) business days.
 Additionally, our processing timeline will vary depending on the nature of the request and the availability of information/documents necessary for review.
 
-A member of Great Gray Legal Team will contact you soon regarding this request, but in the meantime, if you need to contact us with questions or provide additional information regarding this matter, please reference the number in the subject line on all correspondence.
+A member of Great Gray Legal Team will contact you soon regarding this request, but in the meantime, if you need to contact us with questions or provide additional information regarding this matter, *please reference the number in the subject line on all correspondence.*
 
 We look forward to servicing your request.
 
