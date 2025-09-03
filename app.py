@@ -76,7 +76,8 @@ st.markdown("*POC for Great Gray CIT Legal Team*")
 st.sidebar.header("📊 System Stats")
 st.sidebar.metric("Total Emails", len(st.session_state.email_chains))
 st.sidebar.metric("Active Threads", len(get_unique_references()))
-st.sidebar.metric("Next Reference #", f"GG-LEGAL-{datetime.now().year}-{st.session_state.next_ref_number:04d}")
+st.sidebar.markdown("**Next Reference #**")
+st.sidebar.markdown(f'<small>{f"GG-LEGAL-{datetime.now().year}-{st.session_state.next_ref_number:04d}"}</small>', unsafe_allow_html=True)
 
 if st.sidebar.button("🗑️ Clear All Data"):
     st.session_state.email_chains = []
